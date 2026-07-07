@@ -5,7 +5,7 @@
 本次更新：<br>
 - 解决了一些已知问题。
 ===PACKAGE===
-https://5090d.pages.dev/RJStore_v1.0.1.css
+https://github.com/teac9/rjstore-update/raw/refs/heads/main/RJStore_v1.0.1up.zip
 ===FILES===
 index.php
 admin.php
