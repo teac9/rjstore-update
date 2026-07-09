@@ -1,25 +1,21 @@
-1.0.1
-2026-07-07
+1.0.1N
+2026-07-09
 ---
-<h3>v1.0.1 (2026-07-07)</h3>
+<h3>v1.0.1N (2026-07-09)</h3>
 本次更新：<br>
-- 解决了一些已知问题。
+- 解决了一些已知问题；
+- 优化软件稳定性。
+为 1.0.2 进行预备。
+开发组：yuzhew784@gmail.com，或联系你的经销商。
+
 ===PACKAGE===
 https://github.com/teac9/rjstore-update/raw/refs/heads/main/RJStore_v1.0.1up.zip
 ===FILES===
 index.php
 admin.php
 api.php
-config.php
 user.php
-product.php
 install.php
-init_db.php
 update.php
 captcha.php
 version.txt
-jd/index.php
-jd/admin.php
-jd/api.php
-jd/config.php
-jd/captcha.php
