@@ -12,10 +12,8 @@
 https://github.com/teac9/rjstore-update/raw/refs/heads/main/RJStore_v1.0.1up.zip
 ===FILES===
 index.php
-admin.php
 api.php
 user.php
 install.php
-update.php
 captcha.php
 version.txt
